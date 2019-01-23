@@ -1,0 +1,10 @@
+D:\prog\VS15\LeapSetup\LeapSetup\bin\Debug\LeapSetup.exe.config
+D:\prog\VS15\LeapSetup\LeapSetup\bin\Debug\LeapSetup.exe
+D:\prog\VS15\LeapSetup\LeapSetup\bin\Debug\LeapSetup.pdb
+D:\prog\VS15\LeapSetup\LeapSetup\bin\Debug\LeapCSharp.NET4.0.dll
+D:\prog\VS15\LeapSetup\LeapSetup\obj\Debug\LeapSetup.csprojResolveAssemblyReference.cache
+D:\prog\VS15\LeapSetup\LeapSetup\obj\Debug\LeapSetup.Form1.resources
+D:\prog\VS15\LeapSetup\LeapSetup\obj\Debug\LeapSetup.Properties.Resources.resources
+D:\prog\VS15\LeapSetup\LeapSetup\obj\Debug\LeapSetup.csproj.GenerateResource.Cache
+D:\prog\VS15\LeapSetup\LeapSetup\obj\Debug\LeapSetup.exe
+D:\prog\VS15\LeapSetup\LeapSetup\obj\Debug\LeapSetup.pdb

@@ -1,0 +1,9 @@
+D:\prog\VS15\LeapTest3\LeapTest2.1\bin\Debug\LeapTest2.1.exe.config
+D:\prog\VS15\LeapTest3\LeapTest2.1\obj\Debug\LeapTest2.1.exe
+D:\prog\VS15\LeapTest3\LeapTest2.1\obj\Debug\LeapTest2.1.pdb
+D:\prog\VS15\LeapTest3\LeapTest2.1\bin\Debug\LeapTest2.1.exe
+D:\prog\VS15\LeapTest3\LeapTest2.1\bin\Debug\LeapTest2.1.pdb
+D:\prog\VS15\LeapTest3\LeapTest2.1\obj\Debug\LeapTest3.csprojResolveAssemblyReference.cache
+D:\prog\VS15\LeapTest3\LeapTest2.1\obj\Debug\LeapTest2._1.Form1.resources
+D:\prog\VS15\LeapTest3\LeapTest2.1\obj\Debug\LeapTest2._1.Properties.Resources.resources
+D:\prog\VS15\LeapTest3\LeapTest2.1\obj\Debug\LeapTest3.csproj.GenerateResource.Cache

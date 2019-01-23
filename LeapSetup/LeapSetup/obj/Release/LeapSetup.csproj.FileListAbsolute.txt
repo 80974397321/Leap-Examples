@@ -1,0 +1,9 @@
+D:\prog\VS15\LeapSetup\LeapSetup\bin\Release\LeapSetup.exe.config
+D:\prog\VS15\LeapSetup\LeapSetup\bin\Release\LeapSetup.exe
+D:\prog\VS15\LeapSetup\LeapSetup\bin\Release\LeapSetup.pdb
+D:\prog\VS15\LeapSetup\LeapSetup\bin\Release\LeapCSharp.NET4.0.dll
+D:\prog\VS15\LeapSetup\LeapSetup\obj\Release\LeapSetup.Form1.resources
+D:\prog\VS15\LeapSetup\LeapSetup\obj\Release\LeapSetup.Properties.Resources.resources
+D:\prog\VS15\LeapSetup\LeapSetup\obj\Release\LeapSetup.csproj.GenerateResource.Cache
+D:\prog\VS15\LeapSetup\LeapSetup\obj\Release\LeapSetup.exe
+D:\prog\VS15\LeapSetup\LeapSetup\obj\Release\LeapSetup.pdb
